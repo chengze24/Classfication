@@ -1,7 +1,7 @@
 # Air Quality Classification using Machine Learning
 
 ## 📘 Overview
-This project implements and compares several machine learning classification models to predict **Air Quality** based on multiple environmental attributes.  
+This project implements and compares several machine learning classification models to predict **Air Quality** based on multiple environmental attributes
 It demonstrates model evaluation using metrics such as **accuracy**, **precision**, **recall**, and **F1 scores** through **cross-validation**.
 
 ## 👤 Author
@@ -10,6 +10,19 @@ University of Houston
 UH ID: 2316609  
 
 ---
+
+## &#128462; Dataset
+The dataset is "air_quality.csv" with 5,000 samples with 10 features, including:\
+- Temperature (°C): Average temperature of the region.
+- Humidity (%): Relative humidity recorded in the region.
+- PM2.5 Concentration (µg/m³): Fine particulate matter levels.
+- PM10 Concentration (µg/m³): Coarse particulate matter levels.
+- NO2 Concentration (ppb): Nitrogen dioxide levels.
+- SO2 Concentration (ppb): Sulfur dioxide levels.
+- CO Concentration (ppm): Carbon monoxide levels.
+- Proximity to Industrial Areas (km): Distance to the nearest industrial zone.
+- Population Density (people/km²): Number of people per square kilometer in the region.
+- Air Quality: Levels of air quality. (Note: this is class label)
 
 ## 🧠 Models Implemented
 The project evaluates a series of supervised learning models:
