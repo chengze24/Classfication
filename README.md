@@ -12,7 +12,7 @@ UH ID: 2316609
 ---
 
 ## &#128462; Dataset
-The dataset is "air_quality.csv" with 5,000 samples with 10 features, including:\
+The dataset is "air_quality.csv" with 5,000 samples with 10 features, including:
 - Temperature (°C): Average temperature of the region.
 - Humidity (%): Relative humidity recorded in the region.
 - PM2.5 Concentration (µg/m³): Fine particulate matter levels.
